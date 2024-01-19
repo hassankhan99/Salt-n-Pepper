@@ -1,0 +1,175 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style: none;
+}
+
+/* utility classes */
+
+
+/* flex classes start */
+
+.d-flex{
+    display: flex;
+}
+.d-grid{
+    display: grid;
+}
+
+.justify-center{
+    justify-content: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.justify-around{
+    justify-content: space-around;
+}
+.justify-evenly{
+    justify-content: space-evenly;
+}
+.align-center{
+    align-items: center;
+}
+.align-between{
+    align-items: space-between;
+}
+.align-around{
+    align-items: space-around;
+}
+.align-evenly{
+    align-items: space-evenly;
+}
+.wrap{
+    flex-wrap: wrap;
+}
+.flex-column{
+    flex-direction: column;
+}
+.flex-row{
+    flex-direction: row;
+}
+
+/* flex classes end */
+
+
+/* margin classes start */
+.mr{
+    margin-right: 70px;
+}
+.m-1{
+    margin: 5px;
+}
+.m-2{
+    margin: 10px;
+}
+.m-3{
+    margin: 15px;
+}
+.m-4{
+    margin: 20px;
+}
+.mt-1{
+    margin-top: 5px;
+}
+.mt-2{
+    margin-top: 10px;
+}
+.mt-3{
+    margin-top: 15px;
+}
+.mt-4{
+    margin-top: 40px;
+}
+.mt-5{
+    margin-top: 60px;
+}
+
+/* margin classes end */
+
+.bg-light{
+    background-color: #ffffff;
+}
+.bg-dark{
+    background-color: #000000;
+}
+.bg-grey{
+    background-color: #0f0f0f;
+}
+
+.center{
+    text-align: center;
+}
+.rounded{
+    border-radius: 30px;
+}
+.rounded-sm{
+    border-radius: 10px;
+}
+.rounded-md{
+    border-radius: 20px;
+}
+.text-dark{
+    color: #000000;
+}
+.text-light{
+    color: #ffffff;
+}
+.text-grey{
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.transparent{
+    background-color: transparent;
+}
+.gap-1{
+    gap: 10px;
+
+
+}
+.gap-2{
+    gap: 20px;
+}
+.gap-3{
+    gap: 30px;
+}
+.gap-4{
+    gap: 40px;
+
+
+}
+.gap-5{
+   gap: 50px;
+}
+.p-1{
+    padding: 10px;
+
+}
+.p-2{
+    padding: 20px;
+}
+.p-3{
+    padding: 30px;
+
+}
+.fontsize1{
+    font-size: 10px;
+    
+}
+.fontsize2{
+    font-size: 20px;
+    
+}
+.fontsize3{
+    font-size: 30px;
+    
+}
+.fontsize4{
+    font-size: 40px;
+}
+.kok{
+    margin-top: 140px;
+}

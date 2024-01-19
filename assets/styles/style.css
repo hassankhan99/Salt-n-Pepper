@@ -1,0 +1,504 @@
+.logo {
+    background-color:transparent;
+    width: 30%;
+    height: 100px;
+    object-fit: contain;
+    
+
+}
+
+.button1 {
+    background-color: transparent;
+    padding: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 20px;
+
+
+}
+
+.button2 {
+    background-color: #ff0000;
+    padding: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.mainimg {
+    width: 100%;
+    height: 100%;
+}
+
+.one {
+    background-color: #ffffff;
+    padding: 25px;
+
+
+}
+
+#top{
+    padding: 20px;
+    border: 1px solid #ffffff;
+    cursor: pointer;
+    font-size: 20px;
+
+}
+.Frenchinse{
+    align-items: center;
+    text-align: center;
+    padding-top: 150px;
+    font-size: 30px;
+}
+.pragraph{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.ISLAMABAD{
+    margin-left: 90px;
+    margin-top: 40px;
+}
+h2{
+    color: #ff0000;
+   
+}
+.hh1{
+    margin-top:15px ;
+    margin-left: 70px;
+}
+.hh2{
+    margin-left: 70px;
+}
+.you{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 70px;
+    
+}
+.uoy{
+    font-size: 20px;
+    margin-left: 70px;
+}
+.get{
+    margin-top: 30px;
+    background-color: transparent;
+    padding: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-left: 50px;
+}
+/* .middle{
+   margin-left: 550px;
+   justify-content: center;
+
+} */
+.system{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 95px;
+    margin-top: 50px;
+}
+.out{
+    display: flex;
+    flex-direction:row;
+    /* align-items: center;
+    justify-content: space-between;
+    margin-right: 70px;
+    margin-top: 50px;
+    margin-left: 50px; */
+}
+.faisal{
+    margin-left: 230px;
+    margin-top: 15px;
+
+
+}
+.rest{
+    margin-top:15px ;
+    margin-left: 230px;
+}
+.ton{
+    font-size: 20px;
+    margin-left: 230px;
+}
+.not{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 230px;
+}
+.teg{
+    margin-top: 30px;
+    background-color: transparent;
+    padding: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-left: 230px;
+}
+.duo{
+    margin-left: 60px;
+}
+.nug{
+    margin-left: 70px;
+    margin-top: 15px;
+}
+.gun{
+    margin-top:15px ;
+    margin-left: 70px;
+
+}
+.jug{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+.yoyo{
+    font-size: 20px;
+    margin-left: 70px;
+
+}
+.but{
+    margin-top: 30px;
+    background-color: transparent;
+    padding: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-left: 50px;
+}
+.have{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 95px;
+    margin-top: 50px;
+   
+}
+#pool{
+    align-items: center;
+    text-align: center;
+    padding-top: 150px;
+    font-size: 50px;
+}
+#look{
+    align-items: center;
+    text-align: center;
+    padding-top: 7px;
+    font-size: 40px;
+}
+.kite{
+    width: 400px;
+    height: 270px;
+}
+#jak{
+    font-size: 20px;
+    margin-top: 20px;
+    color: #ff0000;
+}
+#van{
+     font-size: 20px;
+     margin-top: 10px;
+}
+#cool{
+    font-size: 20px;
+     margin-top: 10px;
+}
+#col{
+    margin-top: 10px;
+    font-size: 20px;
+}
+ 
+
+.tub{
+    margin-top: 30px;
+    background-color: transparent;
+    padding: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-right: 0px;   
+}
+.tuc{
+    margin-top: 30px;
+    background-color: transparent;
+    padding: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-left: 10px;
+}
+#sir{
+    font-size: 20px;
+    margin-top: 20px;
+   color: #ff0000;
+   margin-right: 50px;
+}
+#ris{
+    font-size: 20px;
+    margin-top: 10px;
+}
+#irs{
+    font-size: 20px;
+    margin-top: 10px;
+    
+}
+#sirs{
+    font-size: 20px;
+    margin-top: 10px;
+}
+#kit{
+    font-size: 20px;
+    margin-top: 20px;
+   color: #ff0000;
+   margin-right: 50px;
+}
+#tik{
+    font-size: 20px;
+    margin-top: 10px;
+}
+#itk{
+    font-size: 20px;
+    margin-top: 10px;
+
+}
+#kti{
+    font-size: 20px;
+    margin-top: 10px;
+}
+#town{
+    font-size: 20px;
+    margin-top: 20px;
+   color: #ff0000;
+   margin-right: 50px;
+}
+#own{
+    font-size: 20px;
+    margin-top: 10px;
+}
+#wno{
+    font-size: 20px;
+    margin-top: 10px;
+}
+#onw{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.hol{
+    width: 420px;
+    height: 270px;
+ 
+
+}
+.loh{
+    width: 370px;
+    height: 290px;
+    
+    
+}
+.tyt{
+    width: 400px;
+    height: 270px; 
+    
+}
+.tue{
+    margin-top: 30px;
+    background-color: transparent;
+    padding: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 20px;
+     
+} 
+#first{
+    font-size: 20px;
+    margin-top: 20px;
+    color: #ff0000;
+}
+#trust{
+    font-size: 20px;
+    margin-top: 10px;
+}
+#rest{
+    font-size: 20px;
+    margin-top: 10px;
+}
+#set{
+    font-size: 20px;
+    margin-top: 10px;
+}
+#has{
+    font-size: 20px;
+    margin-top: 20px;
+    color: #ff0000;
+}
+#ash{
+    font-size: 20px;
+    margin-top: 10px;
+}
+#sah{
+    font-size: 20px;
+    margin-top: 10px;
+}
+#sahi{
+    font-size: 20px;
+    margin-top: 10px;
+}
+#hassan{
+    font-size: 20px;
+    margin-top: 20px;
+    color: #ff0000;
+}
+#hassa{
+    font-size: 20px;
+    margin-top: 10px;
+}
+#hassu{
+    font-size: 20px;
+    margin-top: 10px;
+}
+#hass{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.second{
+   width: 400px;
+   height: 260px;
+}
+.third{
+    width: 400px;
+    height: 270px;
+}
+.four{
+    width: 400px;
+    height: 260px;
+}
+.tb{
+    margin-top: 10px;
+    background-color: transparent;
+    padding: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-right: 0px; 
+}
+.vill{
+    margin-top: 90px;
+    text-align: center;
+    font-size: 50px;
+}
+.end{
+    margin-top: 40px;
+    width: 680px;
+    height: 350px;
+}
+.bun{
+    font-size: 20px;
+    margin-top: 20px;
+    color: #ff0000;
+}
+.fun{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.tun{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.mun{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.cow{
+    display: flex;
+    flex-direction:row;
+    background-color: #0F0F0F;
+    
+}
+.up{
+    margin-left: 40px;
+    margin-top: 90px;
+    
+}
+#mall{
+    margin-top: 30px;
+    background-color: #28A745;
+    color: #ffffff;
+    padding: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 20px; 
+}
+.nop{
+    width: 300px;
+    height: 280px;
+}
+.moon{
+    background-color: transparent;
+    width: 180px;
+    margin-top: 150px;
+    
+
+}
+#lite{
+    margin-top: 20px;
+    font-size: 20px;
+    
+}
+#unit{
+    margin-top: 40px;
+    font-size: 20px;
+}
+.rep{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.pop{
+    font-size: 20px;
+    margin-top: 20px;
+}
+#view{
+    font-size: 20px
+    
+}
+.jeet{
+    width: 100px;
+    background-color: #000000;
+}
+.kill{
+    flex-direction: column;
+    width: 150px;
+    margin-top: 15px;
+}
+.kil{
+    width: 150px;
+    flex-direction: column;
+    margin-top: 15px;
+}
+hr{
+    margin-top: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+#quite{  
+    margin-left: 30px;
+    margin-top: 10px;
+    color: #079042;
+}
+#den{
+    margin-right: 30px;
+    margin-top: 10px;
+    color: #079042;    
+}
