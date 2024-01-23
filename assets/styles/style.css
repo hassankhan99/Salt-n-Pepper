@@ -1,10 +1,14 @@
 .logo {
-    background-color:transparent;
+    background-color: transparent;
     width: 30%;
     height: 100px;
     object-fit: contain;
-    
+    cursor: pointer;
+    transition: all 1s ease-in-out;
+}
 
+.logo:hover {
+    transform: scale(1.1);
 }
 
 .button1 {
@@ -39,50 +43,59 @@
 
 }
 
-#top{
+#top {
     padding: 20px;
     border: 1px solid #ffffff;
     cursor: pointer;
     font-size: 20px;
 
 }
-.Frenchinse{
+
+.Frenchinse {
     align-items: center;
     text-align: center;
     padding-top: 150px;
     font-size: 30px;
 }
-.pragraph{
+
+.pragraph {
     text-align: center;
     margin-top: 20px;
     font-size: 20px;
 }
-.ISLAMABAD{
+
+.ISLAMABAD {
     margin-left: 90px;
     margin-top: 40px;
 }
-h2{
+
+h2 {
     color: #ff0000;
-   
+
 }
-.hh1{
-    margin-top:15px ;
+
+.hh1 {
+    margin-top: 15px;
     margin-left: 70px;
 }
-.hh2{
+
+.hh2 {
     margin-left: 70px;
 }
-.you{
+
+.you {
     font-size: 20px;
     margin-top: 20px;
     margin-left: 70px;
-    
+
 }
-.uoy{
+
+.uoy {
     font-size: 20px;
     margin-left: 70px;
 }
-.get{
+
+.get {
     margin-top: 30px;
     background-color: transparent;
     padding: 20px;
@@ -92,47 +105,54 @@ h2{
     font-size: 20px;
     margin-left: 50px;
 }
+
 /* .middle{
    margin-left: 550px;
    justify-content: center;
 
 } */
-.system{
+.system {
     display: flex;
     align-items: center;
     justify-content: space-between;
     margin-right: 95px;
     margin-top: 50px;
 }
-.out{
+
+.out {
     display: flex;
-    flex-direction:row;
+    flex-direction: row;
     /* align-items: center;
     justify-content: space-between;
     margin-right: 70px;
     margin-top: 50px;
     margin-left: 50px; */
 }
-.faisal{
+
+.faisal {
     margin-left: 230px;
     margin-top: 15px;
 
 
 }
-.rest{
-    margin-top:15px ;
+
+.rest {
+    margin-top: 15px;
     margin-left: 230px;
 }
-.ton{
+
+.ton {
     font-size: 20px;
     margin-left: 230px;
 }
-.not{
+
+.not {
     font-size: 20px;
     margin-top: 20px;
     margin-left: 230px;
 }
-.teg{
+
+.teg {
     margin-top: 30px;
     background-color: transparent;
     padding: 20px;
@@ -142,29 +162,35 @@ h2{
     font-size: 20px;
     margin-left: 230px;
 }
-.duo{
+
+.duo {
     margin-left: 60px;
 }
-.nug{
+
+.nug {
     margin-left: 70px;
     margin-top: 15px;
 }
-.gun{
-    margin-top:15px ;
+
+.gun {
+    margin-top: 15px;
     margin-left: 70px;
 
 }
-.jug{
+
+.jug {
     font-size: 20px;
     margin-top: 20px;
     margin-left: 70px;
 }
-.yoyo{
+
+.yoyo {
     font-size: 20px;
     margin-left: 70px;
 
 }
-.but{
+
+.but {
     margin-top: 30px;
     background-color: transparent;
     padding: 20px;
@@ -174,50 +200,58 @@ h2{
     font-size: 20px;
     margin-left: 50px;
 }
-.have{
+
+.have {
     display: flex;
     align-items: center;
     justify-content: space-between;
     margin-right: 95px;
     margin-top: 50px;
-   
+
 }
-#pool{
+
+#pool {
     align-items: center;
     text-align: center;
     padding-top: 150px;
     font-size: 50px;
 }
-#look{
+
+#look {
     align-items: center;
     text-align: center;
     padding-top: 7px;
     font-size: 40px;
 }
-.kite{
+
+.kite {
     width: 400px;
     height: 270px;
 }
-#jak{
+
+#jak {
     font-size: 20px;
     margin-top: 20px;
     color: #ff0000;
 }
-#van{
-     font-size: 20px;
-     margin-top: 10px;
-}
-#cool{
+
+#van {
     font-size: 20px;
-     margin-top: 10px;
+    margin-top: 10px;
 }
-#col{
+
+#cool {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+#col {
     margin-top: 10px;
     font-size: 20px;
 }
- 
 
-.tub{
+
+.tub {
     margin-top: 30px;
     background-color: transparent;
     padding: 20px;
@@ -225,9 +259,10 @@ h2{
     border-radius: 50px;
     cursor: pointer;
     font-size: 20px;
-    margin-right: 0px;   
+    margin-right: 0px;
 }
-.tuc{
+
+.tuc {
     margin-top: 30px;
     background-color: transparent;
     padding: 20px;
@@ -237,80 +272,96 @@ h2{
     font-size: 20px;
     margin-left: 10px;
 }
-#sir{
+
+#sir {
     font-size: 20px;
     margin-top: 20px;
-   color: #ff0000;
-   margin-right: 50px;
+    color: #ff0000;
+    margin-right: 50px;
 }
-#ris{
+
+#ris {
     font-size: 20px;
     margin-top: 10px;
 }
-#irs{
-    font-size: 20px;
-    margin-top: 10px;
-    
-}
-#sirs{
-    font-size: 20px;
-    margin-top: 10px;
-}
-#kit{
-    font-size: 20px;
-    margin-top: 20px;
-   color: #ff0000;
-   margin-right: 50px;
-}
-#tik{
-    font-size: 20px;
-    margin-top: 10px;
-}
-#itk{
+
+#irs {
     font-size: 20px;
     margin-top: 10px;
 
 }
-#kti{
+
+#sirs {
     font-size: 20px;
     margin-top: 10px;
 }
-#town{
+
+#kit {
     font-size: 20px;
     margin-top: 20px;
-   color: #ff0000;
-   margin-right: 50px;
+    color: #ff0000;
+    margin-right: 50px;
 }
-#own{
+
+#tik {
     font-size: 20px;
     margin-top: 10px;
 }
-#wno{
+
+#itk {
+    font-size: 20px;
+    margin-top: 10px;
+
+}
+
+#kti {
     font-size: 20px;
     margin-top: 10px;
 }
-#onw{
+
+#town {
+    font-size: 20px;
+    margin-top: 20px;
+    color: #ff0000;
+    margin-right: 50px;
+}
+
+#own {
     font-size: 20px;
     margin-top: 10px;
 }
-.hol{
+
+#wno {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+#onw {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.hol {
     width: 420px;
     height: 270px;
- 
+
 
 }
-.loh{
+
+.loh {
     width: 370px;
     height: 290px;
-    
-    
+
+
 }
-.tyt{
+
+.tyt {
     width: 400px;
-    height: 270px; 
-    
+    height: 270px;
+
 }
-.tue{
+
+.tue {
     margin-top: 30px;
     background-color: transparent;
     padding: 20px;
@@ -318,72 +369,88 @@ h2{
     border-radius: 50px;
     cursor: pointer;
     font-size: 20px;
-     
-} 
-#first{
+
+}
+
+#first {
     font-size: 20px;
     margin-top: 20px;
     color: #ff0000;
 }
-#trust{
+
+#trust {
     font-size: 20px;
     margin-top: 10px;
 }
-#rest{
+
+#rest {
     font-size: 20px;
     margin-top: 10px;
 }
-#set{
+
+#set {
     font-size: 20px;
     margin-top: 10px;
 }
-#has{
+
+#has {
     font-size: 20px;
     margin-top: 20px;
     color: #ff0000;
 }
-#ash{
+
+#ash {
     font-size: 20px;
     margin-top: 10px;
 }
-#sah{
+
+#sah {
     font-size: 20px;
     margin-top: 10px;
 }
-#sahi{
+
+#sahi {
     font-size: 20px;
     margin-top: 10px;
 }
-#hassan{
+
+#hassan {
     font-size: 20px;
     margin-top: 20px;
     color: #ff0000;
 }
-#hassa{
+
+#hassa {
     font-size: 20px;
     margin-top: 10px;
 }
-#hassu{
+
+#hassu {
     font-size: 20px;
     margin-top: 10px;
 }
-#hass{
+
+#hass {
     font-size: 20px;
     margin-top: 10px;
 }
-.second{
-   width: 400px;
-   height: 260px;
-}
-.third{
-    width: 400px;
-    height: 270px;
-}
-.four{
+
+.second {
     width: 400px;
     height: 260px;
 }
-.tb{
+
+.third {
+    width: 400px;
+    height: 270px;
+}
+
+.four {
+    width: 400px;
+    height: 260px;
+}
+
+.tb {
     margin-top: 10px;
     background-color: transparent;
     padding: 20px;
@@ -391,47 +458,56 @@ h2{
     border-radius: 50px;
     cursor: pointer;
     font-size: 20px;
-    margin-right: 0px; 
+    margin-right: 0px;
 }
-.vill{
+
+.vill {
     margin-top: 90px;
     text-align: center;
     font-size: 50px;
 }
-.end{
+
+.end {
     margin-top: 40px;
     width: 680px;
     height: 350px;
 }
-.bun{
+
+.bun {
     font-size: 20px;
     margin-top: 20px;
     color: #ff0000;
 }
-.fun{
+
+.fun {
     font-size: 20px;
     margin-top: 10px;
 }
-.tun{
+
+.tun {
     font-size: 20px;
     margin-top: 10px;
 }
-.mun{
+
+.mun {
     font-size: 20px;
     margin-top: 10px;
 }
-.cow{
+
+.cow {
     display: flex;
-    flex-direction:row;
+    flex-direction: row;
     background-color: #0F0F0F;
-    
+
 }
-.up{
+
+.up {
     margin-left: 40px;
     margin-top: 90px;
-    
+
 }
-#mall{
+
+#mall {
     margin-top: 30px;
     background-color: #28A745;
     color: #ffffff;
@@ -439,66 +515,134 @@ h2{
     border: 1px solid #ffffff;
     border-radius: 50px;
     cursor: pointer;
-    font-size: 20px; 
+    font-size: 20px;
 }
-.nop{
+
+.nop {
     width: 300px;
     height: 280px;
 }
-.moon{
+
+.moon {
     background-color: transparent;
     width: 180px;
     margin-top: 150px;
-    
+
 
 }
-#lite{
+
+#lite {
     margin-top: 20px;
     font-size: 20px;
-    
+
 }
-#unit{
+
+#unit {
     margin-top: 40px;
     font-size: 20px;
 }
-.rep{
+
+.rep {
     font-size: 20px;
     margin-top: 20px;
 }
-.pop{
+
+.pop {
     font-size: 20px;
     margin-top: 20px;
 }
-#view{
+
+#view {
     font-size: 20px
-    
 }
-.jeet{
+
+.jeet {
     width: 100px;
     background-color: #000000;
+    cursor: pointer;
 }
-.kill{
+
+.kill {
     flex-direction: column;
     width: 150px;
     margin-top: 15px;
+    cursor: pointer;
 }
-.kil{
+
+.kil {
     width: 150px;
     flex-direction: column;
     margin-top: 15px;
+    cursor: pointer;
 }
-hr{
+
+hr {
     margin-top: 50px;
     margin-left: 15px;
     margin-right: 15px;
+    color: #0f0f0f;
 }
-#quite{  
+
+#quite {
     margin-left: 30px;
     margin-top: 10px;
     color: #079042;
+    padding-bottom: 40px;
+    padding-top: 40px;
 }
-#den{
+
+#den {
     margin-right: 30px;
     margin-top: 10px;
-    color: #079042;    
+    color: #079042;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+.hus {
+    width: 600px;
+    height: 370px;
+    margin-top: 100px;
+
+}
+
+.ink {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 95px;
+    margin-top: 50px;
+}
+
+.send {
+    width: 600px;
+    height: 340px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.zip {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 60px;
+    margin-top: 50px;
+}
+
+.elo {
+    margin-top: 50px;
+    width: 600px;
+    height: 350px;
+    border-radius: 10px;
+    margin-left: 90px;
+}
+#well{
+    margin-top: 50px;
+    margin-left: 90px;
+}
+.lamp{
+    margin-left: 70px;
+    width: 550px;
+    height: 350px;
+    margin-top: 70px;
 }
