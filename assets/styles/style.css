@@ -29,6 +29,7 @@
     border-radius: 30px;
     cursor: pointer;
     font-size: 20px;
+    /* background-color: #ffffff; */
 }
 
 .mainimg {
@@ -529,25 +530,30 @@ h2 {
     margin-top: 150px;
 
 
+
 }
 
 #lite {
     margin-top: 20px;
     font-size: 20px;
+    color: rgba(255, 255, 255, 0.7);
 
 }
 
 #unit {
     margin-top: 40px;
+    color: rgba(255, 255, 255, 0.7);
     font-size: 20px;
 }
 
 .rep {
     font-size: 20px;
     margin-top: 20px;
+    color: rgba(255, 255, 255, 0.7);
 }
 
 .pop {
+    color: rgba(255, 255, 255, 0.7);
     font-size: 20px;
     margin-top: 20px;
 }
@@ -636,13 +642,149 @@ hr {
     border-radius: 10px;
     margin-left: 90px;
 }
-#well{
+
+#well {
     margin-top: 50px;
     margin-left: 90px;
 }
-.lamp{
+
+.lamp {
     margin-left: 70px;
     width: 550px;
     height: 350px;
     margin-top: 70px;
+}
+
+.rin {
+
+    margin-top: 80px;
+    border: 1px solid gray;
+    margin-left: 80px;
+    width: 600px;
+    height: 550px;
+    transition: all 1s ease-in-out;
+}
+
+.max {
+    width: 600px;
+    height: 550px;
+    margin-top: 80px;
+    border: 1px solid gray;
+    margin-left: 130px;
+    transition: all 1s ease-in-out;
+}
+
+.rin:hover {
+    transform: scale(1.1);
+}
+
+.max:hover {
+    transform: scale(1.1);
+}
+
+#ster:hover {
+    color: #ff0000;
+    cursor: pointer;
+
+}
+
+.good {
+    padding: 10px;
+    padding-left: 230px;
+    padding-right: 230px;
+    border-radius: 5px;
+    margin-top: 20px;
+    /* margin-bottom: 90px; */
+}
+
+.bed {
+    /* margin-top: 70px; */
+    margin-right: 560px;
+    margin-top: 60px;
+    font-size: 20px;
+}
+
+.fan {
+    margin-right: 470px;
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+.goat {
+    margin-right: 550px;
+    font-size: 20px;
+
+}
+
+.goet {
+    margin-right: 520px;
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+.goot {
+    margin-right: 520px;
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+.button {
+    background-color: #ff0000;
+    padding: 15px;
+    border: 1px solid #ffffff;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-right: 420px;
+}
+
+.input {
+    width: 80%;
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 40px;
+    margin-left: 10%;
+    /* margin-right: 10%; */
+}
+
+.input input {
+    border: none;
+    outline: none;
+    color: #000000;
+    font-size: 14px;
+    width: 100%;
+    padding: 20px 60px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .10);
+}
+
+.input-1 {
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+.end button{
+    background-color: transparent;
+    padding: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.gey{
+    text-align: center;
+    margin-top: 190px;
+}
+.buttoon{
+    padding: 25px;
+    margin-top: 30px;
+    cursor: pointer;
+    margin-left: 170px;
+    border-radius: 50px;
+    background-color:#ED1C24;
+    color: #ffffff;
+    font-size: 25px;
+
 }
